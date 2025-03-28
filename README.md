@@ -3,7 +3,9 @@ Equipe:Ana Beatriz Castro, Rosiele Sousa
 Professor:Everson Sousa
 # Problemas:
 1-má admistração do tempo
+
 2-perder as coisas muito facilmente ou esquecer onde colocou
+
 3-
 4-
 5-
